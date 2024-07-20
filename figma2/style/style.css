@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.yozuvi{
+    width: 483px;
+}
+
+.katta-yozuv{
+    font-weight: 700px;
+    font-size: 77px;
+    line-height: 82px;
+}
+
+.kichik-yozuv{
+    margin-top: 30px;
+    font-weight: 400px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.rasm{
+  justify-content: space-between;
+}
+
